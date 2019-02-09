@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_select2',
     'bootstrap3',
+    'apps.OrdenServicio',
 ]
 
 MIDDLEWARE = [
