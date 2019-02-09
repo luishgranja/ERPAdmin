@@ -1,5 +1,4 @@
 from django.db import models
-from django.contrib.auth.models import User
 
 class OrdenServicio(models.Model):
     servicio_vendido = models.CharField(max_length=100) # ¿string o Modelo Servicio?
