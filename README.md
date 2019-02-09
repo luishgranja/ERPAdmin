@@ -36,6 +36,7 @@ O instalar el archivo requirements.txt
  4. Cuentas por Cobrar
  5. Gestión de cuentas contables
  6. Recursos humanos
+ 7. Ordenes de Servicio
 
 ## Construido con
 
